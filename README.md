@@ -1,45 +1,51 @@
 # Ani's Data Analytics Portfolio 🚀
-*Transforming data into actionable insights | End-to-end analytics across Tableau, Power BI, SQL & Excel*
 
----
+Welcome! This repository showcases my **end-to-end data analytics projects** across **Tableau, Power BI, SQL, and Excel**.  
+Each project focuses on **real-world business problems**, **actionable insights**, and **executive-ready storytelling**.
 
-## 🔗 Quick Links
-[Tableau Project](https://github.com/anirudh311200/maven-supplies-analytics) • 
-[Power BI Project](https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard) • 
-[SQL Project](https://github.com/anirudh311200/restaurant-order-analysis) • 
-[Excel Project](https://github.com/anirudh311200/nyc-traffic-analysis)
+*Click on any project below to explore the complete analysis, dashboards, and documentation.*
 
 ---
 
 ## 🏆 Projects
 
-### 1️⃣ [Maven Supplies Analytics | Tableau](https://github.com/anirudh311200/maven-supplies-analytics)
-- 📊 Executive-grade **Tableau dashboards** and story points
-- 💰 Deep-dive analysis of **sales, profit, and loss drivers**
-- 🎯 Interactive visualizations for **strategic decision-making**
+---
 
-━━━━━━━━━━━━━━━━━━━━
+### 🟠 Maven Supplies Analytics | Tableau  
+🔗 **Repository:** https://github.com/anirudh311200/maven-supplies-analytics
 
-### 2️⃣ [AdventureWorks Executive Dashboard | Power BI](https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard)
-- 📈 End-to-end **Power BI solution** with KPI tracking and regional analysis
-- 🤖 AI-powered insights and drill-down capability
-- 📱 Mobile-optimized, executive-ready dashboards
-
-━━━━━━━━━━━━━━━━━━━━
-
-### 3️⃣ [Restaurant Order Analysis | SQL](https://github.com/anirudh311200/restaurant-order-analysis)
-- 🗄 Advanced **SQL querying** for customer behavior and revenue drivers
-- 📊 Insights into **menu item performance, category trends, and high-value orders**
-- ✅ Clean, actionable dashboards for restaurant management
-
-━━━━━━━━━━━━━━━━━━━━
-
-### 4️⃣ [NYC Traffic Collision Analysis | Excel](https://github.com/anirudh311200/nyc-traffic-analysis)
-- 📑 Comprehensive **Excel analytics workflow**
-- 📈 Pivot tables, heatmaps, and trend visualizations
-- 🚦 Focused on actionable **traffic safety insights**
+- Executive-grade **Tableau dashboards** and story points  
+- Deep-dive analysis of sales performance, profit drivers, and loss contributors  
+- Interactive visuals designed for strategic decision-making  
 
 ---
 
-**💡 Thank you for visiting my portfolio!**  
-Each project repo contains **full datasets, code, visuals, and detailed README explanations** for a complete deep dive.
+### 🟡 AdventureWorks Executive Dashboard | Power BI  
+🔗 **Repository:** https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard
+
+- End-to-end **Power BI solution** with KPI tracking and regional analysis  
+- AI-powered insights, drill-downs, and trend exploration  
+- Mobile-optimized, executive-ready dashboard experience  
+
+---
+
+### 🔵 Restaurant Order Analysis | SQL  
+🔗 **Repository:** https://github.com/anirudh311200/restaurant-order-analysis
+
+- Advanced **SQL querying** to uncover customer behavior and revenue drivers  
+- Analysis of menu performance, category trends, and high-value orders  
+- Insights structured for operational and pricing decisions  
+
+---
+
+### 🟢 NYC Traffic Collision Analysis | Excel  
+🔗 **Repository:** https://github.com/anirudh311200/nyc-traffic-analysis
+
+- Comprehensive **Excel analytics workflow** from raw data to insights  
+- Pivot tables, heatmaps, and trend visualizations  
+- Focused on actionable traffic safety and policy insights  
+
+---
+
+*Thank you for visiting my portfolio.*  
+Each project repository includes **datasets, queries, dashboards, visuals, and detailed explanations** to support a full analytical deep dive.
