@@ -1,4 +1,4 @@
-# Ani's Data Analytics Portfolio 🚀
+# Anirudh's Data Analytics Portfolio 🚀
 
 Welcome! This repository showcases my **end-to-end data analytics projects** across **Tableau, Power BI, SQL, and Excel**.  
 Each project focuses on transforming raw data into **clear insights, actionable decisions, and executive-ready storytelling**.
