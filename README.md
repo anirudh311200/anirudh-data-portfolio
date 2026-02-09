@@ -1,4 +1,4 @@
-# Anirudh's Analytics & Analytics Engineering Portfolio 🚀
+# Anirudh's Analytics & Data Engineering Portfolio 🚀
 
 Welcome! This repository showcases my **end-to-end analytics and analytics engineering projects** built using **Alteryx, Tableau, Power BI, SQL, and Excel**.  
 Each project focuses on transforming raw data into **analytics-ready assets, actionable insights, and executive-ready outputs**.
