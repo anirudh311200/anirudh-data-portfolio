@@ -12,7 +12,7 @@ Each project focuses on transforming raw data into **analytics-ready assets, act
 ---
 
 ### End-to-End Analytics Engineering | Alteryx  
-🔗 https://github.com/anirudh311200/alteryx-end-to-end-analytics-engineering  
+🔗 [View Repository](https://github.com/anirudh311200/alteryx-end-to-end-analytics-engineering)
 
 - Production-grade Alteryx workflow integrating multi-source retail F&B data  
 - Modular macros and analytic apps for automation, feature engineering, and spatial modeling  
@@ -21,7 +21,7 @@ Each project focuses on transforming raw data into **analytics-ready assets, act
 ---
 
 ### Maven Supplies Executive Analytics | Tableau  
-🔗 https://github.com/anirudh311200/maven-supplies-analytics  
+🔗 [View Repository](https://github.com/anirudh311200/maven-supplies-analytics)
 
 - Executive-grade Tableau dashboards and story points  
 - Sales performance, profit drivers, and loss contributor analysis  
@@ -30,7 +30,7 @@ Each project focuses on transforming raw data into **analytics-ready assets, act
 ---
 
 ### AdventureWorks Executive Dashboard | Power BI  
-🔗 https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard  
+🔗 [View Repository](https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard)
 
 - End-to-end Power BI solution with KPI tracking and regional analysis  
 - Drill-downs, AI-powered insights, and trend exploration  
@@ -39,7 +39,7 @@ Each project focuses on transforming raw data into **analytics-ready assets, act
 ---
 
 ### NYC Traffic Collision Analysis | Excel  
-🔗 https://github.com/anirudh311200/nyc-traffic-analysis  
+🔗 [View Repository](https://github.com/anirudh311200/nyc-traffic-analysis)
 
 - End-to-end Excel analytics workflow from raw data to insights  
 - Pivot tables, heatmaps, and trend visualizations  
@@ -48,7 +48,7 @@ Each project focuses on transforming raw data into **analytics-ready assets, act
 ---
 
 ### Restaurant Order Analysis | SQL  
-🔗 https://github.com/anirudh311200/restaurant-order-analysis  
+🔗 [View Repository](https://github.com/anirudh311200/restaurant-order-analysis)
 
 - Advanced SQL querying to uncover customer behavior and revenue drivers  
 - Menu performance, category trends, and high-value order analysis  
