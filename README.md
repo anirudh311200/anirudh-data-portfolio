@@ -1,51 +1,60 @@
-# Anirudh's Data Analytics Portfolio 🚀
+# Anirudh's Analytics & Analytics Engineering Portfolio 🚀
 
-Welcome! This repository showcases my **end-to-end data analytics projects** across **Tableau, Power BI, SQL, and Excel**.  
-Each project focuses on transforming raw data into **clear insights, actionable decisions, and executive-ready storytelling**.
+Welcome! This repository showcases my **end-to-end analytics and analytics engineering projects** built using **Alteryx, Tableau, Power BI, SQL, and Excel**.  
+Each project focuses on transforming raw data into **analytics-ready assets, actionable insights, and executive-ready outputs**.
 
-*Click on any project below to explore the complete analysis, dashboards, and documentation.*
-
----
-
-## 🏆 Projects
+*Click on any project below to explore full workflows, dashboards, queries, and documentation.*
 
 ---
 
-### 🟠 Maven Supplies Analytics | Tableau
-🔗 [View Repository](https://github.com/anirudh311200/maven-supplies-analytics)
-
-- Executive-grade **Tableau dashboards** and story points  
-- Deep-dive analysis of sales performance, profit drivers, and loss contributors  
-- Interactive visualizations designed for strategic decision-making  
+## Projects
 
 ---
 
-### 🟡 AdventureWorks Executive Dashboard | Power BI
-🔗 [View Repository](https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard)
+### End-to-End Analytics Engineering | Alteryx  
+🔗 https://github.com/anirudh311200/alteryx-end-to-end-analytics-engineering  
 
-- End-to-end **Power BI solution** with KPI tracking and regional analysis  
-- AI-powered insights, drill-downs, and trend exploration  
+- Production-grade Alteryx workflow integrating multi-source retail F&B data  
+- Modular macros and analytic apps for automation, feature engineering, and spatial modeling  
+- Fully automated outputs including Tableau extracts, PDFs, and spreadsheets  
+
+---
+
+### Maven Supplies Executive Analytics | Tableau  
+🔗 https://github.com/anirudh311200/maven-supplies-analytics  
+
+- Executive-grade Tableau dashboards and story points  
+- Sales performance, profit drivers, and loss contributor analysis  
+- Interactive visuals designed for strategic decision-making  
+
+---
+
+### AdventureWorks Executive Dashboard | Power BI  
+🔗 https://github.com/anirudh311200/adventureworks-powerbi-executive-dashboard  
+
+- End-to-end Power BI solution with KPI tracking and regional analysis  
+- Drill-downs, AI-powered insights, and trend exploration  
 - Mobile-optimized, executive-ready dashboard experience  
 
 ---
 
-### 🔵 Restaurant Order Analysis | SQL
-🔗 [View Repository](https://github.com/anirudh311200/restaurant-order-analysis)
+### NYC Traffic Collision Analysis | Excel  
+🔗 https://github.com/anirudh311200/nyc-traffic-analysis  
 
-- Advanced **SQL querying** to uncover customer behavior and revenue drivers  
-- Analysis of menu performance, category trends, and high-value orders  
+- End-to-end Excel analytics workflow from raw data to insights  
+- Pivot tables, heatmaps, and trend visualizations  
+- Actionable traffic safety and policy insights  
+
+---
+
+### Restaurant Order Analysis | SQL  
+🔗 https://github.com/anirudh311200/restaurant-order-analysis  
+
+- Advanced SQL querying to uncover customer behavior and revenue drivers  
+- Menu performance, category trends, and high-value order analysis  
 - Insights structured for operational and pricing decisions  
 
 ---
 
-### 🟢 NYC Traffic Collision Analysis | Excel
-🔗 [View Repository](https://github.com/anirudh311200/nyc-traffic-analysis)
-
-- Comprehensive **Excel analytics workflow** from raw data to insights  
-- Pivot tables, heatmaps, and trend visualizations  
-- Focused on actionable traffic safety and policy insights  
-
----
-
-*Thank you for visiting my portfolio.*  
-Each project repository includes **datasets, queries, dashboards, visuals, and detailed explanations** to support a full analytical deep dive.
+Thank you for visiting my portfolio.  
+Each project repository includes datasets, queries, dashboards, visuals, and detailed explanations for a complete analytical deep dive.
